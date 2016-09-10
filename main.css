@@ -1,0 +1,23 @@
+.jumbotron h1,
+.jumbotron .h1 {
+  line-height: 1;
+  color: #F2EBEB;
+}
+
+p {
+	color: #2A3E59;
+}
+
+
+
+.body .p {
+	color: #A3B4BF;
+}
+
+.jumbotron {
+	background-color: #8195A6;
+}
+
+.progress-bar {
+	 width:400px;
+}
