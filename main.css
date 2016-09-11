@@ -18,6 +18,10 @@ p {
 	background-color: #FED630;
 }
 
+.navbar {
+    margin-bottom: 0;
+}
+
 .progress-bar {
 	 width:400px;
 }
